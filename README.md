@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=C06C84&height=300&section=header&text=kalelpark&fontSize=80&animation=fadeIn)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={qkrdnjsrl})](https://solved.ac/qkrdnjsrl)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qkrdnjsrl)
+
 
 ### Hi there 👋
 
