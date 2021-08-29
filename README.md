@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=C06C84&height=300&section=header&text=kalelpark&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=blinking)
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
