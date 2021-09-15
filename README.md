@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=C06C84&height=300&section=header&text=kalelpark&fontSize=80&animation=fadeIn)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qkrdnjsrl)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalelpark&&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalelpark&show_icons=true&theme=radical)
+
 
 ### Hi there 👋
 
