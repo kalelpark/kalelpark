@@ -1,15 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3A4A51&height=250&section=left&text=Wongi Park&fontSize=60&fontAlign=80&fontColor=f7f5f5"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=3A4A51&height=250&section=left&text=Wongi Park&fontSize=60&fontAlign=80&fontColor=f7f5f5"/> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalelpark&show_icons=true&theme=radical)![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdnjsrl)
 
 
 ### Hi there 👋
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdnjsrl)
 
 <!--
-**kalelpark/kalelpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
