@@ -1,5 +1,5 @@
   <h3  align="center">👩🏻‍💻 WongiPark</h3>
-<p align = "center"> 🏢 Ajou University CSE (2020.03 ~ )  </span>
+<p align = "center"> 🏢 Ajou University CSE </span>
   <br>
   <h3 align="center">🧑🏼‍💻 Tech Stack</h3>
 <div align="center">
