@@ -1,4 +1,4 @@
-  <h3  align="center"><p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/kalelpark" alt="your id"></p>👩🏻‍💻 WongiPark</h3>
+<p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/kalelpark" alt="your id"><img src = 'http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrdnjsrl'></p><h3  align="center">👩🏻‍💻 WongiPark</h3>
   
 <p style="color:blue;" align = "center"> <strong>Persistence is very important. You should not give up unless you are forced to give up.</strong> </p>
   <h3 align="center">🧑🏼‍💻 Tech Stack</h3>
