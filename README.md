@@ -5,6 +5,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
 </div>
+  <h2> ✨
+Activity</h2>
+  <ul>
+    <li>
+      <span>Tech Blog : https://blog.naver.com/qkrdnjsrl0628</span>
+    </li>
+    <li>
+      <span>Kaggle Profile : https://www.kaggle.com/kalelpark</span>
+    </li>    
+  </ul>
+</div>
 <div>
   <h2> 🌟 
 Achievement</h2>
