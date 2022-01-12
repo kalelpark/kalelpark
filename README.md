@@ -13,7 +13,10 @@ Activity</h2>
     </li>
     <li>
       <span>Kaggle : https://www.kaggle.com/kalelpark</span>
-    </li>    
+    </li>
+    <li>
+      <span>Algorithm : https://solved.ac/profile/qkrdnjsrl</span>
+    </li>
   </ul>
 </div>
 <!-- <div>
