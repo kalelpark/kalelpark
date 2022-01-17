@@ -9,9 +9,6 @@
 Activity</h2>
   <ul>
     <li>
-      <span>Tech Blog : https://blog.naver.com/qkrdnjsrl0628</span>
-    </li>
-    <li>
       <span>Kaggle : https://www.kaggle.com/kalelpark</span>
     </li>
     <li>
@@ -30,4 +27,7 @@ Achievement</h2>
       <span>2021.12.03 오산시 빅데이터 분석 공모전 수상(3등) 🥉</span>
     </li>    
   </ul>
+    <li>
+      <span>Tech Blog : https://blog.naver.com/qkrdnjsrl0628</span>
+    </li>
 </div> <--- -->
