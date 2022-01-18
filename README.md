@@ -1,9 +1,10 @@
 <h3  align="center">👩🏻‍💻 WongiPark</h3>
   
-<p style="color:blue;" align = "center"> <strong>A new day brings new opportunities.</strong> </p>
-  <h3 align="center">🧑🏼‍💻 Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+<p style="color:blue;" align = "center"> <strong>Success is the sum of small efforts, repeated day in and day out</strong> </p>
+<!--   <h3 align="center">🧑🏼‍💻 Tech Stack</h3> -->
+<!-- <div align="center">
+    <h3 align="center">I Love Python</h3> -->
+<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp  -->
 </div>
   <h2> ✨
 Activity</h2>
