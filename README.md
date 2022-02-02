@@ -1,6 +1,6 @@
 <h3>👩🏻‍💻 WongiPark</h3>
   
-<p style="color:blue;"> <strong>I Love Data Scinece🔥</strong> </p>
+<p style="color:blue;"> <strong>I Love Data Science🔥</strong> </p>
 <!--   <h3 align="center">🧑🏼‍💻 Tech Stack</h3> -->
 <!-- <div align="center">
     <h3 align="center">I Love Python</h3> -->
