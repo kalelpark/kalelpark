@@ -15,6 +15,9 @@ Activity</h2>
     <li>
       <span>Algorithm : https://solved.ac/profile/qkrdnjsrl</span>
     </li>
+    <li>
+      <span>Blog : https://blog.naver.com/qkrdnjsrl0628</span>
+    </li>  
   </ul>
 </div>
 <!-- <div>
