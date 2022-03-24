@@ -13,9 +13,6 @@ Activity</h2>
       <span>Kaggle : https://www.kaggle.com/kalelpark</span>
     </li>
     <li>
-      <span>Algorithm : https://solved.ac/profile/qkrdnjsrl</span>
-    </li>
-    <li>
       <span>Blog : https://blog.naver.com/qkrdnjsrl0628</span>
     </li>  
   </ul>
