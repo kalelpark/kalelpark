@@ -1,11 +1,11 @@
 <h3>👩🏻‍💻 WongiPark</h3>
   
-<p style="color:blue;"> <strong>I Love Data Science🔥</strong> </p>
+<!-- <p style="color:blue;"> <strong>I Love Data Science🔥</strong> </p> -->
 <!--   <h3 align="center">🧑🏼‍💻 Tech Stack</h3> -->
 <!-- <div align="center">
     <h3 align="center">I Love Python</h3> -->
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp  -->
-</div>
+<!-- </div>
   <h2> ✨
 Activity</h2>
   <ul>
@@ -16,7 +16,7 @@ Activity</h2>
       <span>Blog : https://blog.naver.com/qkrdnjsrl0628</span>
     </li>  
   </ul>
-</div>
+</div> -->
 <!-- <div>
 <---  <h2> 🌟 
 Achievement</h2>
