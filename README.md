@@ -1,6 +1,6 @@
-<h3>👩🏻‍💻 WongiPark</h3>
-<p>
-Contact : qkrdnjsrl0628@naver.com
+<!-- <h3>👩🏻‍💻 WongiPark</h3> -->
+<!--  <p> -->
+CONTACT : qkrdnjsrl0628@naver.com
 <!-- <p style="color:blue;"> <strong>I Love Data Science🔥</strong> </p> -->
 <!--   <h3 align="center">🧑🏼‍💻 Tech Stack</h3> -->
 <!-- <div align="center">
