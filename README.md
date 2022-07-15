@@ -1,6 +1,20 @@
 <!-- <h3>👩🏻‍💻 WongiPark</h3> -->
 <!--  <p> -->
 CONTACT : qkrdnjsrl0628@naver.com
+
+<br>
+
+![kalelpark](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kalelpark)
+
+|Name|Type|Performance|Rank|
+|---|---|---|---|
+|**2021 오산시 빅데이터 아이디어 분석(오산시)**|Tabular|:trophy:장려상|3rd|
+|**[ML Olympiad - Landscape Image Classification (Kaggle)](https://www.kaggle.com/competitions/ml-olympiad-landscape-image-classification/leaderboard)**|Image|:trophy:2등|2nd/13|
+|**[[단국대] 따릉이 대여량 예측 AI 경진대회(Dacon)](https://dacon.io/competitions/open/235915/leaderboard)**|Tabular, TimeSeries|:trophy:우수상|6/180|
+|**[[BASIC]카드 소비 패턴 분석 시각화(Dacon)](https://dacon.io/competitions/official/235907/leaderboard)**|Visualization|:trophy:3등|3rd/432|
+
+
+
 <!-- <p style="color:blue;"> <strong>I Love Data Science🔥</strong> </p> -->
 <!--   <h3 align="center">🧑🏼‍💻 Tech Stack</h3> -->
 <!-- <div align="center">
